@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.logo{
+  height:40px;
+  width: 120px;
+  background-size:cover;
+}
+
+.services-container{
+  background-color:#ffffff;
+  height:100vh;
+  width:100vw;
+}
+.offers-container{
+  background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+}
+
+.offers-image{
+  height:30vh;
+}
+
+
+
+.main-heading{
+  color:#183b56;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.services-para{
+  color:#616c7c;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: left;
+}
+.services-card-heading{
+ color:#183b56;
+  font-size: 17px; 
+}
+
+.services-card-para{
+  color:#616c7c;
+  font-size: 13px;
+}
+
+.services-image{
+  height:60px;
+  width:60px;
+}
+
+.products-container{
+   background-color:#ffffff;
+}
+
+
+.product-image-1{
+  height:100vh;
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+  background-size:cover;
+  border-radius:10px;
+}
+
+.product-image-2{
+  height:100vh;
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+  background-size:cover;
+  border-radius:10px;
+}
+
+.p-heading{
+  font-size:27px;
+  font-weight:bold;
+  color:white;
+ }
+
+.p-para{
+  font-size:15px;
+  color:white;
+}
+
+.p-button{
+  background-color:#ffffff;
+  color:#ff9f00;
+  font-size:15px;
+  border-radius:20px;
+  border-width:0px;
+  width:120px;
+  height:35px;
+}
+
+.modal-para{
+  color:#323f4b;
+  font-size:13px;
+}
+
+.p-button0{
+  background-color:#ffffff;
+  color:#ff9f00;
+  font-size:15px;
+  border-radius:20px;
+  border-width:0px;
+  width:140px;
+  height:35px;
+}
+.p-arrow{
+  color:#ff9f00;
+  font-size:15px;
+  padding:5px;
+}
+
+.offers-image{
+  height:40vh;
+}
+
+.offers-heading{
+  color:#ad2167;
+  font-size:22px;
+  font-weight:bold;
+  font-family:"bree serif";
+}
+
+.offer-credit{
+  font-style:italic; 
+  color:white; 
+  font-weight:bold; 
+  font-size:13px;
+}
+
+.offer-image{
+  height:90px;
+  width:250px;
+}
+
+.offer-appliances{
+  height:300px;
+  width:300px;
+  padding-left:20px;
+}
+
+.blog-type{
+  color:#959ead;
+  font-size:12px;
+}
+
+.blog-heading{
+ color:#183b56;
+  font-size:21px;
+  font-weight:bold;
+  
+}
+
+.blog-para{
+  color:#959ead;
+  font-size:15px;
+}
+
+.blog-button{
+  color:#ff9f00;
+  font-size:14px;
+  font-weight:bold;
+}
+
+.dealsoffers{
+  height:100vh;
+  width:100vw;
+}
+
+.heading0{
+  color:#183b56;
+  font-size:17px;
+  font-weight:bold;
+}
+
+.card0{
+background-color:#ffffff;
+}
+
+.deals-para{
+ font-size:15px; 
+ color:#183b56;
+}
+
+.explore-images{
+  height:80px;
+  width:100px;
+  padding:3px;
+  border-radius:15px;
+}
+
+.explore-image{
+  height:300px;
+  width:300px;
+  padding:3px;
+  border-radius:15px;
+}
+
+.contact-container{
+  background-color:#f5f7fa;
+  height:100vh;
+  width:100vw;
+}
+
+.contact-heading{
+  color:#183b56;
+  font-size:40px;
+  font-weight:bold;
+}
+
+.button{
+  color:#ff9f00;
+  border-color:#ff9f00;
+  font-weight:bold;
+  height: 40px;
+  width: 130px;
+}
+
+.footer-bg{
+ background-color:#183b56;
+}
+
+.icon{
+  color:#5a7184;
+  background-color:#152c3e;
+  height:50px;
+  width:50px;
+  padding-top:15px;
+  padding-bottom:25px;
+  padding-left:18px;
+  padding-right:20px;
+  border-top-left-radius:120px;
+  border-top-right-radius:120px;
+  border-bottom-left-radius:120px;
+  border-bottom-right-radius:120px;
+  margin:5px;
+}
+
+.footer-heading{
+  color:#959ead;
+  font-size:17px;
+  font-weight:bold;
+}
+
+.footer-para{
+  color:#959ead;
+  font-size:13px;
+}
+
+.hr-line{
+ border-color:#959ead;
+ font-weight:bold;
+}
